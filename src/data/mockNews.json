@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Tesla Reports Record Quarter Despite Production Challenges",
+    "source": "Bloomberg",
+    "date": "2024-04-15",
+    "summary": "Tesla delivered record quarterly results despite ongoing supply chain disruptions and production challenges at its new factories.",
+    "url": "#",
+    "related": ["TSLA"]
+  },
+  {
+    "id": 2,
+    "title": "Apple Unveils Next-Generation AI Features for iOS",
+    "source": "TechCrunch",
+    "date": "2024-04-14",
+    "summary": "Apple announced a suite of AI-powered features coming to iOS 18, signaling the company's increased focus on artificial intelligence.",
+    "url": "#",
+    "related": ["AAPL"]
+  },
+  {
+    "id": 3,
+    "title": "Meta's VR Headset Sales Surpass Expectations",
+    "source": "The Verge",
+    "date": "2024-04-12",
+    "summary": "Meta's latest VR headset has exceeded sales projections, boosting the company's position in the growing virtual reality market.",
+    "url": "#",
+    "related": ["META"]
+  },
+  {
+    "id": 4,
+    "title": "Microsoft Cloud Services See 30% Growth, Beating Analyst Estimates",
+    "source": "CNBC",
+    "date": "2024-04-11",
+    "summary": "Microsoft's cloud division reported 30% year-over-year growth, surpassing Wall Street expectations and driving the stock to new heights.",
+    "url": "#",
+    "related": ["MSFT"]
+  },
+  {
+    "id": 5,
+    "title": "Amazon Expands Same-Day Delivery to 100 New Markets",
+    "source": "Reuters",
+    "date": "2024-04-10",
+    "summary": "Amazon announced the expansion of its same-day delivery service to 100 additional markets, intensifying competition in the e-commerce space.",
+    "url": "#",
+    "related": ["AMZN"]
+  },
+  {
+    "id": 6,
+    "title": "Google's AI Search Features Rolling Out Globally",
+    "source": "Search Engine Journal",
+    "date": "2024-04-09",
+    "summary": "Google is expanding its AI-powered search features to all markets, marking a significant evolution in how users interact with the world's largest search engine.",
+    "url": "#",
+    "related": ["GOOGL"]
+  },
+  {
+    "id": 7,
+    "title": "Fed Signals Potential Rate Cut in Coming Months",
+    "source": "Financial Times",
+    "date": "2024-04-08",
+    "summary": "Federal Reserve officials hinted at a possible interest rate cut in the near future as inflation shows signs of moderating.",
+    "url": "#",
+    "related": []
+  },
+  {
+    "id": 8,
+    "title": "Chip Shortage Easing, Semiconductor Stocks Rally",
+    "source": "Wall Street Journal",
+    "date": "2024-04-07",
+    "summary": "The global semiconductor shortage is showing signs of improvement, leading to a rally in chip stocks as supply chain constraints begin to ease.",
+    "url": "#",
+    "related": ["NVDA", "AMD", "INTC"]
+  },
+  {
+    "id": 9,
+    "title": "Global Markets React to Lower-Than-Expected Inflation Data",
+    "source": "MarketWatch",
+    "date": "2024-04-06",
+    "summary": "Stock markets worldwide responded positively to inflation data that came in below analysts' forecasts, potentially signaling an end to the rate-hiking cycle.",
+    "url": "#",
+    "related": []
+  },
+  {
+    "id": 10,
+    "title": "Netflix Subscriber Growth Accelerates in Asian Markets",
+    "source": "Variety",
+    "date": "2024-04-05",
+    "summary": "Netflix reported stronger-than-expected subscriber additions, primarily driven by rapid growth in Asian markets and successful new content releases.",
+    "url": "#",
+    "related": ["NFLX"]
+  }
+] 

@@ -1,0 +1,137 @@
+{
+  "portfolioValue": 134728.56,
+  "cashBalance": 15289.23,
+  "dailyChange": 1243.87,
+  "dailyChangePercent": 0.93,
+  "totalGain": 24728.56,
+  "totalGainPercent": 22.48,
+  "investmentStart": "2023-01-15",
+  "holdings": [
+    {
+      "id": "AAPL",
+      "shares": 150,
+      "averageCost": 145.32,
+      "currentValue": 26763.00,
+      "allocationPercent": 22.45,
+      "unrealizedGain": 4965.00,
+      "unrealizedGainPercent": 22.78
+    },
+    {
+      "id": "MSFT",
+      "shares": 75,
+      "averageCost": 330.65,
+      "currentValue": 31029.00,
+      "allocationPercent": 26.02,
+      "unrealizedGain": 6220.50,
+      "unrealizedGainPercent": 25.09
+    },
+    {
+      "id": "AMZN",
+      "shares": 120,
+      "averageCost": 128.45,
+      "currentValue": 21374.40,
+      "allocationPercent": 17.93,
+      "unrealizedGain": 5960.40,
+      "unrealizedGainPercent": 38.67
+    },
+    {
+      "id": "GOOGL",
+      "shares": 85,
+      "averageCost": 118.23,
+      "currentValue": 13283.80,
+      "allocationPercent": 11.14,
+      "unrealizedGain": 3224.35,
+      "unrealizedGainPercent": 32.01
+    },
+    {
+      "id": "TSLA",
+      "shares": 60,
+      "averageCost": 210.45,
+      "currentValue": 11288.40,
+      "allocationPercent": 9.47,
+      "unrealizedGain": -1338.60,
+      "unrealizedGainPercent": -10.60
+    },
+    {
+      "id": "META",
+      "shares": 32,
+      "averageCost": 280.15,
+      "currentValue": 15792.00,
+      "allocationPercent": 13.25,
+      "unrealizedGain": 6837.20,
+      "unrealizedGainPercent": 76.24
+    }
+  ],
+  "performanceHistory": [
+    { "date": "2023-01-15", "value": 110000.00 },
+    { "date": "2023-02-15", "value": 112540.23 },
+    { "date": "2023-03-15", "value": 114785.45 },
+    { "date": "2023-04-15", "value": 113987.28 },
+    { "date": "2023-05-15", "value": 116854.36 },
+    { "date": "2023-06-15", "value": 121452.87 },
+    { "date": "2023-07-15", "value": 124785.23 },
+    { "date": "2023-08-15", "value": 122458.32 },
+    { "date": "2023-09-15", "value": 123985.48 },
+    { "date": "2023-10-15", "value": 125487.39 },
+    { "date": "2023-11-15", "value": 124852.14 },
+    { "date": "2023-12-15", "value": 128963.25 },
+    { "date": "2024-01-15", "value": 130548.96 },
+    { "date": "2024-02-15", "value": 132845.23 },
+    { "date": "2024-03-15", "value": 133485.69 },
+    { "date": "2024-04-15", "value": 134728.56 }
+  ],
+  "watchlist": [
+    "NVDA",
+    "NFLX",
+    "PYPL",
+    "INTC",
+    "AMD"
+  ],
+  "recentTransactions": [
+    {
+      "id": 1,
+      "type": "BUY",
+      "symbol": "AAPL",
+      "shares": 15,
+      "price": 176.25,
+      "date": "2024-04-05",
+      "total": 2643.75
+    },
+    {
+      "id": 2,
+      "type": "SELL",
+      "symbol": "TSLA",
+      "shares": 10,
+      "price": 192.45,
+      "date": "2024-03-28",
+      "total": 1924.50
+    },
+    {
+      "id": 3,
+      "type": "BUY",
+      "symbol": "META",
+      "shares": 5,
+      "price": 485.32,
+      "date": "2024-03-15",
+      "total": 2426.60
+    },
+    {
+      "id": 4,
+      "type": "BUY",
+      "symbol": "MSFT",
+      "shares": 8,
+      "price": 410.75,
+      "date": "2024-03-02",
+      "total": 3286.00
+    },
+    {
+      "id": 5,
+      "type": "SELL",
+      "symbol": "GOOGL",
+      "shares": 12,
+      "price": 153.28,
+      "date": "2024-02-20",
+      "total": 1839.36
+    }
+  ]
+} 
